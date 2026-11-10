@@ -1,0 +1,19 @@
+Cliente1,Cliente2,ProdutosEmComum,Quantidade
+Ana,Gabriel,"[Notebook, Teclado]",2
+Ana,Carlos,"[Mouse, Teclado]",2
+Carlos,Helena,"[Mouse, Headset]",2
+Ana,Bruno,[Notebook],1
+Ana,Daniela,[Notebook],1
+Bruno,Daniela,[Notebook],1
+Bruno,Gabriel,[Notebook],1
+Daniela,Gabriel,[Notebook],1
+Ana,Fernanda,[Mouse],1
+Carlos,Fernanda,[Mouse],1
+Ana,Helena,[Mouse],1
+Fernanda,Helena,[Mouse],1
+Carlos,Gabriel,[Teclado],1
+Bruno,Eduardo,[Monitor],1
+Bruno,Helena,[Monitor],1
+Eduardo,Helena,[Monitor],1
+Carlos,Daniela,[Headset],1
+Daniela,Helena,[Headset],1
